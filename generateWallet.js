@@ -8,7 +8,6 @@ const generateWallet = () => {
 
   // Generate a mnemonic
   const mnemonic = bip39.generateMnemonic();
-  console.log('Mnemonic:', mnemonic);
 
   // Derive the master seed from the mnemonic
   const masterSeed = bip39.mnemonicToSeedSync(mnemonic);
