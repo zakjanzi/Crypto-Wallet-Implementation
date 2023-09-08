@@ -8,10 +8,12 @@ It uses the BIP-39 standard for mnemonic phrase generation and key derivation an
 # How to run
 
 1) Clone the repo and install dependencies.
-   `npm i`
 
-2) Run the generateWallet.js file in a node terminal.
-   `node .\generateWallet.js`
+   - `npm i`
+
+3) Run the generateWallet.js file in a node terminal.
+
+   - `node .\generateWallet.js`
 
 
 # Output
