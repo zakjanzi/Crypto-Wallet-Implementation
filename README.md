@@ -11,7 +11,7 @@ It uses the BIP-39 standard for mnemonic phrase generation and key derivation an
 
    - `npm i`
 
-3) Run the generateWallet.js file in a node terminal.
+3) Run the generateWallet.js.
 
    - `node .\generateWallet.js`
 
